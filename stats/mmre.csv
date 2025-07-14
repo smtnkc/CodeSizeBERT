@@ -1,0 +1,3 @@
+model,train_set,test_set,entry,read,write,exit,cfp,interaction,communication,process,microm
+codebert,code_cosmic,code_cosmic,0.1621,0.4283,0.3831,0.1071,0.3357,,,,
+codebert,code_microm,code_microm,,,,,,0.3295,0.2781,0.3017,0.347
